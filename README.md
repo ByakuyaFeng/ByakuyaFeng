@@ -1,4 +1,4 @@
-# ByakuyaFeng晨老师 你崛起罢
+# 白夜晨风 你崛起罢
 
 + 白夜晨风（ByakuyaFeng）或RosaVebla（更喜欢这个称呼）
 + 独立游戏开发者
@@ -7,4 +7,4 @@
 + 独立游戏开发团队『月魔女社』[@Lunarmajo Studio](https://github.com/Lunarmajo-Studio)创立者
 + 只会蹭热度的[个人B站账号](https://space.bilibili.com/6516299)
 + 我们正在寻找对独立游戏开发感兴趣的人才
-+ 希望能得到帮助
++ 希望能相互合作
