@@ -1,5 +1,7 @@
 # 白夜晨风
 
+<img align="right" width="320px" height="320px" src="https://github.com/ByakuyaFeng/ByakuyaFeng/blob/main/Ico_LMS.png">
+
 + 白夜晨风（ByakuyaFeng）或RosaVebla（更喜欢这个称呼）
 + 独立游戏开发者
 + 在读带专生
