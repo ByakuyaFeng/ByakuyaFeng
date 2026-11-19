@@ -1,6 +1,6 @@
 # 白夜晨风
 
-<img align="right" width="320px" height="320px" src="https://github.com/ByakuyaFeng/ByakuyaFeng/blob/main/Ico_R136.png">
+<img align="right" width="480px" height="480px" src="https://github.com/ByakuyaFeng/ByakuyaFeng/blob/main/Ico_R136NAME.png">
 
 + 白夜晨风（ByakuyaFeng）
 + 独立游戏开发者
